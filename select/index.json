@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "apart",
+  "base_artist": "DURDN",
+  "createdAt": "2026-02-28T09:07:04.402823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Six Feet Apart",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/01_Six_Feet_Apart_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Not Falling Apart",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_Not_Falling_Apart_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Act Won (Things Fall Apart)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/03_Act_Won_(Things_Fall_Apart)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Act Won (Things Fall Apart)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/04_Act_Won_(Things_Fall_Apart)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I’ll Fall Apart",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/05_I’ll_Fall_Apart_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When We're Apart",
+      "artist": "POP ETC",
+      "has_synced": false,
+      "path": "select/06_When_We're_Apart_POP_ETC.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When We're Apart",
+      "artist": "The Morning Benders",
+      "has_synced": false,
+      "path": "select/07_When_We're_Apart_The_Morning_Benders.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Will Tear Us Apart",
+      "artist": "Nouvelle Vague",
+      "has_synced": false,
+      "path": "select/08_Love_Will_Tear_Us_Apart_Nouvelle_Vague.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Moment Apart",
+      "artist": "ODESZA",
+      "has_synced": true,
+      "path": "select/09_A_Moment_Apart_ODESZA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fall Apart",
+      "artist": "YVO",
+      "has_synced": false,
+      "path": "select/10_Fall_Apart_YVO.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "An Ocean Apart",
+      "artist": "Chicane",
+      "has_synced": true,
+      "path": "select/11_An_Ocean_Apart_Chicane.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Falling Apart",
+      "artist": "Causeway",
+      "has_synced": false,
+      "path": "select/12_I'm_Falling_Apart_Causeway.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep It Together (So I Can Fall Apart)",
+      "artist": "Ben Harper & Relentless7",
+      "has_synced": true,
+      "path": "select/13_Keep_It_Together_(So_I_Can_Fall_Apart)_Ben_Harper_&_Relentless7.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Keep It Together (So I Can Fall Apart)",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/14_Keep_It_Together_(So_I_Can_Fall_Apart)_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tearing Us Apart",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/15_Tearing_Us_Apart_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jumbo (Future Shock Worlds Apart Vox)",
+      "artist": "Underworld",
+      "has_synced": false,
+      "path": "select/16_Jumbo_(Future_Shock_Worlds_Apart_Vox)_Underworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "apart",
+      "artist": "DURDN",
+      "has_synced": false,
+      "path": "select/pl_01_apart_DURDN.txt"
+    }
+  ]
+}
